@@ -11,3 +11,5 @@ Se agrega un [mapa](./MapaDeAplicación.md) de las paginas que tendra la aplicac
 Para el diseño de las interfaces se utilizó Figma, estos se pueden ver en el siguiente link
 
 [Wireframe y UI](https://www.figma.com/file/grvwR55wZxJffZooYfjBz9/AbogaBOT?node-id=461169%3A448)
+
+También se agrega un borrador para [procesos](./Procesos.md).
